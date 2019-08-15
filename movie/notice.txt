@@ -1,0 +1,1 @@
+As of now there will be a jump in commits after commit 'adding mediawiki.ipynb'. I was unable to pip install wptools onto my local enviorment. Further progress is only done on Udacity's site and are not documented in this repo. 
